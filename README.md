@@ -3,6 +3,7 @@
 Environment: Python 3	     
 Technologies: sklearn, nltk, keras.              
 Techniques: Vectorization, Tokenization, Stemming.
+
 Data: consists of 2225 articles from bbc news website belonging to categories- business, sports, politics etc. from 2004-2005
 
 The news articles are stored in .txt files in different directories pertaining to various news categories. The file 
